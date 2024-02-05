@@ -43,6 +43,10 @@ a{
     text-transform: uppercase;
     text-decoration: none;
 }
+a:hover{
+    background-color: #edb92c;
+    color: ;
+}
 .divs p{
     margin-bottom: 50px;
 }
@@ -69,9 +73,11 @@ a{
 .product img{
     width: 360px;
     height: 400px;
-    
+    transition: 1s;
 }
-
+.product img:hover{
+    margin-top: 15px;
+}
 .inner1, .inner2{
     width: 360px;
 }
