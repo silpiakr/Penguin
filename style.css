@@ -51,7 +51,10 @@ a{
 }
 .womens, .mens{
     background-color: #E5E5E5;
-    margin-top: 0;
+    margin-top: 0px;
+}
+.products{
+    padding-top: 40px;
 }
 .sectiondiv{
     display: flex;
@@ -107,7 +110,7 @@ a{
 .box img{
     width: 500px;
     height: 360px;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 .boxs{
     display: flex;
