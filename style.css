@@ -1,0 +1,136 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+.top{
+    display: flex;
+    padding: 20px;
+    background-color: #FFFBF0;
+    height: 550px;
+}
+.text{
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+    margin-right: 40px;
+}
+.model img{
+    width: 400px;
+    height: 420px;
+    margin-top: 50px;
+}
+h1{
+    font-size: 3rem;
+    word-spacing: 3px;
+    margin-top: -10px;
+}
+span{
+    color: #edb92c;
+    
+}
+a{
+    color: #FFFBF0;
+    background-color: rgb(98, 192, 4);
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.divs p{
+    margin-bottom: 50px;
+}
+.fa-solid{
+    margin-right: 7px;
+}
+.womens, .mens{
+    background-color: #E5E5E5;
+    margin-top: 0;
+}
+.sectiondiv{
+    display: flex;
+}
+.product{
+    width: 450px;
+    height: 580px;
+    padding: 20px;
+    box-shadow: 2px 2px 10px rgb(210, 207, 207);
+    margin: 10px 10px 10px 10px;
+}
+.product img{
+    width: 360px;
+    height: 400px;
+    
+}
+
+.inner1, .inner2{
+    width: 360px;
+}
+.inner1{
+    background-color: #fdfdfc;
+    height: 440px;
+    width: 360;
+}
+.inner2 h2{
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+.inner2 p{
+    font-size: small;
+}
+.inDiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+
+}
+.inDiv h1{
+    color: #edb92c;
+    font-weight: 400;
+}
+.sectionLogo{
+    margin-top: 60px;
+    display: flex;
+}
+.logo{
+    display: flex;
+    background-color: #E5E5E5;
+    margin-top: 0;
+}
+.box img{
+    width: 500px;
+    height: 360px;
+    margin-left: 20px;
+}
+.boxs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 650px;
+
+}
+.boxs img{
+    width: 100px;
+    height: 100px;
+    
+}
+.boxs{
+    border-radius: 10px;
+    background-color: #fffffe;
+    margin-top: 10px;
+    padding: 10px;
+}
+footer{
+    background-color: #E5E5E5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
