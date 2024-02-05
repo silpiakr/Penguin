@@ -5,6 +5,7 @@
     font-family: 'Poppins', sans-serif;
 
 }
+
 .top{
     display: flex;
     padding: 20px;
@@ -45,7 +46,6 @@ a{
 }
 a:hover{
     background-color: #edb92c;
-    color: ;
 }
 .divs p{
     margin-bottom: 50px;
